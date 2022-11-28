@@ -1,0 +1,7 @@
+{
+  "contractFileName": "employee contract extension",
+  "owner": "alice",
+  "expireDate": "2023-12-31",
+  "contractList": ["alice", "bob"],
+  "employee": "bob"
+}
