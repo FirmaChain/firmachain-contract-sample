@@ -1,5 +1,7 @@
 # firmachain-contract-sample
 
+![image](https://user-images.githubusercontent.com/93503020/204201541-74318d20-55ee-472b-8f7f-871d442734de.png)
+
 This project is a sample of the "Contract" module among the "FirmaChain" modules.
 Examples are based on "TypeScript" & "JavaScript".
 
