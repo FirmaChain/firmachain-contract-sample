@@ -49,7 +49,7 @@ describe('[01. "Log" for contract module on FirmaChain]', () => {
     expect(singleContractLog.id).to.be.equal(logId);
   });
 
-  it('getContractLogAll', async () => {
+  it.skip('getContractLogAll', async () => {
     const allContractLog = await firma.Contract.getContractLogAll();
     const totalCount = allContractLog.pagination.total;
     

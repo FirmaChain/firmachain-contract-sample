@@ -17,7 +17,7 @@ describe('[04. "Util" for contract module]', () => {
   const firma = new FirmaSDK(FIRMACHAIN_CONFIG);
   const sampleContractPDFHash = "da39330a6dfd90a91563603950f742240fa222580beecf36e141fe6410184e8b";
   const sampleContractPNGHash = "8435d9eafb94357fcad218fdcc48f0e5a57999f00fa17d449169366b9c78cecb";
-  const sampleContractJSONHash = "43b088077b249499afa472ceb1a0bcfa9d7d29d9de9384079afda4c3c1c1ec74";
+  const sampleContractJSONHash = "596d5da5e2530cf590c3aa3ff40441ada4d3baa991d9d82ef8197429fd6ea590";
   const sampleTextHash = "b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9";
 
   it('getFileHash', async () => {

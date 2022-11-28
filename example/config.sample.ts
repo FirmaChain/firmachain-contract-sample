@@ -1,4 +1,4 @@
 import { FirmaConfig } from "@firmachain/firma-js";
 
-export const ChainConfig = FirmaConfig.TestNetConfig;
-export const Mnemonic = "";
+export const FIRMACHAIN_CONFIG = FirmaConfig.TestNetConfig;
+export const MNEMONIC = "";
