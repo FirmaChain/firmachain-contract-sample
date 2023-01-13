@@ -19,7 +19,7 @@
   "author": "FirmaChain <developer@firmagroup.co>",
   "license": "MIT License",
   "dependencies": {
-    "@firmachain/firma-js": "^0.2.45",
+    "@firmachain/firma-js": "^0.2.48",
     "@types/chai": "^4.2.21",
     "@types/mocha": "^9.0.0",
     "acorn": "^8.8.1",
